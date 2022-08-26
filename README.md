@@ -2,8 +2,8 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Estou aprendendo Python, mas isso é só o começo...
+- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou aprendendo Python - FLASK, HTML e CSS mas isso é só o começo...
 
 <div>
 <a href="https://github.com/hugordsp">
