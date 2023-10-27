@@ -3,7 +3,6 @@
 
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo Python, JavaScript, HTML e CSS mas isso é só o começo...
 
 <div>
 <a href="https://github.com/hugordsp">
